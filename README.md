@@ -7,3 +7,5 @@ python and tkinter
 
 pip install -r requirements.txt
 
+## Run Terminal
+- pyinstaller .\filename.py

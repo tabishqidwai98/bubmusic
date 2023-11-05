@@ -1,1 +1,2 @@
 tkinter == 8.6
+pyinstaller == 3.8-3.12
