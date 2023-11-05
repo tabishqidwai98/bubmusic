@@ -1,7 +1,9 @@
 # bubmusic
 
 python and tkinter
-- Simple muusic player
+- Simple music player
 
-## requirements
+## requirements.txt
+
+pip install -r requirements.txt
 
