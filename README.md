@@ -1,7 +1,7 @@
 # bubmusic
 
 python and tkinter
-Simple muusic player
+- Simple muusic player
 
 ## requirements
 
